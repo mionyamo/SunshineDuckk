@@ -19,7 +19,8 @@
         android:id="@+id/imageView"
         android:layout_gravity="right|top"
         android:contentDescription="jpg"
-        android:background="#ffcaffcf" />
+        android:background="#ffcaffcf"
+        android:src="@drawable/aprilduck" />
 
 
 </FrameLayout>
